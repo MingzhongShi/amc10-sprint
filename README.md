@@ -8,7 +8,7 @@
 
 ## 🏆 闯关积分目标
 
-* 🌟 **【网页端直达】[AMC 10B 互动大师工坊 (GitHub Pages 在线访问)](https://simon-shi83.github.io/amc10-sprint/)** —— 手机/iPad/电脑免配置打开！内置完整几何母定理变式图解、全套真题看板与智能算分器！
+* 🌟 **【网页端直达】[AMC 10B 互动大师工坊 (GitHub Pages 在线访问)](https://mingzhongshi.github.io/amc10-sprint/)** —— 手机/iPad/电脑免配置打开！内置完整几何母定理变式图解、全套真题看板与智能算分器！
 
 $$
 \text{总分} = (\text{答对题数} \times 6) + (\text{未答题数} \times 1.5)
@@ -39,7 +39,7 @@ $$
 
 ## 📚 五大核心几何母定理互动大师手册 (独立专页)
 
-* 🌐 **[总导航大厅 (Interactive Portal)](https://simon-shi83.github.io/amc10-sprint/)** —— 8套真题看板 + 智能算分器 + 几何/数论综合手册
+* 🌐 **[总导航大厅 (Interactive Portal)](https://mingzhongshi.github.io/amc10-sprint/)** —— 8套真题看板 + 智能算分器 + 几何/数论综合手册
 1. 📐 **[定理一：角平分线双星体系与阿波罗尼斯圆](geom_01_angle_bisector.html)** —— 双证明法 + 外角推广 + 调和共轭 + 长度公式
 2. 📐 **[定理二：斯特瓦尔特定理与中线模型](geom_02_stewart.html)** —— 余弦互补推导 + 阿波罗尼奥斯中线公式 + 平行四边形恒等式
 3. 📐 **[定理三：圆幂定理不变量族与根轴根心](geom_03_power_of_point.html)** —— 代数守恒 + 相交弦/割线/切线三合一 + 两圆公共弦根轴
